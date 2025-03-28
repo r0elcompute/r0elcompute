@@ -15,7 +15,9 @@ I have a strong passion for web and software development. I enjoy creating innov
 🌐 Skills
 
 Web Development: HTML, CSS, JavaScript
+
 Software Development: Python, Java
+
 Version Control: Git & GitHub
 
 
